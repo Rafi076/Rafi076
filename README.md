@@ -1,4 +1,4 @@
-[![MasterHead](https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif)]
+![MasterHead](https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif)
 <h1 align="center">Hi 👋, I'm Rafi</h1>
 <h3 align="center">An undergraduate CSE student exploring the coding world. Interested in CP, App development, committed to continuous learning and open-source contributions.</h3>
 
