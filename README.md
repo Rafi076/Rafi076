@@ -1,10 +1,3 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafi076&label=Profile%20views&color=0e75b6&style=flat" alt="rafi076" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafi076" alt="rafi076" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter for development**
-- 💬 Ask me about **App development, DSA, OOP, DBMS**
 - 📫 How to reach me **mohiuddinrafi076@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
