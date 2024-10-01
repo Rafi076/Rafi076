@@ -1,4 +1,4 @@
-- 📫 How to reach me **mohiuddinrafi076@gmail.com**
+mail me: **mohiuddinrafi076@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
